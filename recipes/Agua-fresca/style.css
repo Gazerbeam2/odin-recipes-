@@ -1,3 +1,23 @@
+*{
+    box-sizing:border-box;
+}
+
+
+body{
+    background-color:floralwhite;
+    color:black;
+    margin:0;
+    
+}
+
+
+
+header{
+    text-align: center;
+    padding:1%;
+}
+
 img{
     border-radius:10px;
+
 }
