@@ -16,10 +16,13 @@ body{
     padding: 1.2em;
     font-size:1.2rem;
     background-color:bisque;
+    margin: 0;
 }
 
 
-
+a{
+    list-style: none;
+}
 
 
 

@@ -27,5 +27,8 @@ ul{
     font-size:2.2rem;
     text-decoration: none;
     gap:5px
+}
 
+img{
+    max-inline-size: 100%;
 }
